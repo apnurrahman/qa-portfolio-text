@@ -1,10 +1,10 @@
 # Software QA Portfolio
-#About Me
+# About Me
 I'm a computer science graduate with a major specialization in Computer Networks. I'm currently pursuing my passion for software quality assurance (QA). By combining my technical foundation in computer networks and hands-on QA project, I am eager to contribute my analytical skills and attention to detail in a QA role.
 I thrive in collaborative environments and am committed to ensure software excellence while growing professionally in this field.
 
-#CV
-#Skills
+# CV
+# Skills
 **Test Plan & Design**
   - Dissecting requirements, required testing, defining scope based on Product Requirement Documents (PRD)
   - Creating test cases
@@ -15,7 +15,7 @@ I thrive in collaborative environments and am committed to ensure software excel
 **Bug Reporting**
   - Create and design bug reporting document with it's severity
 
-#Tools
+# Tools
 **Qase.io**
   - Creating test suites based on functionality
   - Importing test cases into test suites
@@ -25,7 +25,7 @@ I thrive in collaborative environments and am committed to ensure software excel
   - Familiar with Kanban boards
   - Able to create boards with detailed descriptions
 
-#Courses I Took
+# Courses I Took
 **Quality Assurance Introduction** issued by MySkill [certificate link](https://drive.google.com/file/d/14dCBDFUbc3_vr7jRyiWAejgvmFZWA677/view?usp=drive_link)
   - Basic fundamental of software quality assurance (goals, principle and terminologies)
   - Familiar to common SDLC types
@@ -36,7 +36,7 @@ I thrive in collaborative environments and am committed to ensure software excel
   - Learned to create test plan and test design
   - Performing exploratory testing to websites
 
-#Example Work
+# Example Work
   1. Test Plan Aplikasi Pinjam Sultan
      - Creating a test plan document based on mock PRD called "Aplikasi Pinjam Sultan" using IEEE 829 Test Plan template
   2. Manual Testing on KasirAja
