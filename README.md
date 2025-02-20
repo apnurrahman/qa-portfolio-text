@@ -8,10 +8,13 @@ I thrive in collaborative environments and am committed to ensure software excel
 **Test Plan & Design**
   - Dissecting requirements, required testing, defining scope based on Product Requirement Documents (PRD)
   - Creating test cases
-**Manual Testing**
+    
+ **Manual Testing**
   - Perform functional testing based on mock/demo websites
-**Exploratory Testing**
+    
+ **Exploratory Testing**
   - Perform a black-box testing based on mock/demo websites
+    
 **Bug Reporting**
   - Create and design bug reporting document with it's severity
 
@@ -21,6 +24,7 @@ I thrive in collaborative environments and am committed to ensure software excel
   - Importing test cases into test suites
   - Perform test runs
   - Create defect report based on test run
+    
 **Trello**
   - Familiar with Kanban boards
   - Able to create boards with detailed descriptions
@@ -29,10 +33,12 @@ I thrive in collaborative environments and am committed to ensure software excel
 **Quality Assurance Introduction** issued by MySkill [certificate link](https://drive.google.com/file/d/14dCBDFUbc3_vr7jRyiWAejgvmFZWA677/view?usp=drive_link)
   - Basic fundamental of software quality assurance (goals, principle and terminologies)
   - Familiar to common SDLC types
+
 **QA Test Technique** issued by MySkill [certificate link](https://drive.google.com/file/d/1N0jpGLc8i7fhltgQa-DE--lG16Ofj-wU/view?usp=drive_link)
   - Learned about test types and test levels
   - Learned about functional testing (white, black, and grey)
-**QA Test Activity** issueed by MySkill [certificate link](https://drive.google.com/file/d/1A8w9iVkMRj_Aq0cGequN7SG7MRbOLkxx/view?usp=drive_link)
+    
+**QA Test Activity** issued by MySkill [certificate link](https://drive.google.com/file/d/1A8w9iVkMRj_Aq0cGequN7SG7MRbOLkxx/view?usp=drive_link)
   - Learned to create test plan and test design
   - Performing exploratory testing to websites
 
