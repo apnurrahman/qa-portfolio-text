@@ -49,3 +49,7 @@ I thrive in collaborative environments and am committed to ensure software excel
      - Creating test cases on KasirAja website
      - Importing test cases to test case management tools
      - Creating bug reports document
+  3. Manual Testing on BlazeDemo
+     - Creating smoke test and making sure application worked as intended
+     - Creating and testing functional cases
+     - Bugs were found and reported (there are one major bug where user can book with credit card number)
